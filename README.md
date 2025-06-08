@@ -82,21 +82,7 @@ JWT_SECRET=your_jwt_secret
 ```
 
 📁 Project Structure
-css
-Copy
-Edit
-Prescripto/
-├── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   └── ...
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── ...
-└── README.md
+<pre> ```plaintext Prescripto/ ├── backend/ │ ├── models/ │ ├── routes/ │ ├── controllers/ │ └── ... ├── frontend/ │ ├── src/ │ │ ├── components/ │ │ ├── pages/ │ │ └── ... └── README.md ``` </pre>
 ✅ Future Features (optional)
 Email notifications for appointments
 
