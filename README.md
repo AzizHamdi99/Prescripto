@@ -81,8 +81,7 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 ```
 
-📁 Project Structure
-<pre> ```plaintext Prescripto/ ├── backend/ │ ├── models/ │ ├── routes/ │ ├── controllers/ │ └── ... ├── frontend/ │ ├── src/ │ │ ├── components/ │ │ ├── pages/ │ │ └── ... └── README.md ``` </pre>
+
 ✅ Future Features (optional)
 Email notifications for appointments
 
